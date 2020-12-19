@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/.Xilinx/HW8Compe475/HW8Test_isim_beh.exe" -prj "C:/.Xilinx/HW8Compe475/HW8Test_beh.prj" "work.HW8Test" "work.glbl" 
